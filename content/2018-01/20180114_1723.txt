@@ -1,0 +1,8 @@
+﻿Title: タイトルCRLF
+Date: 2018/01/14 17:23
+Category: Diary
+Tags: Japanese
+Status: draft
+
+こんどは
+CRLFだよ

@@ -1,0 +1,8 @@
+﻿Title: タイトル
+Date: 2018/01/14 17:16
+Category: Diary
+Tags: Japanese
+Status: draft
+
+なるほど改行がLF
+だったのか
